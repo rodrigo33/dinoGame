@@ -1,0 +1,9 @@
+.dino{
+    width: 60px;
+    height: 60px;
+    background: green;
+    /* com o absolute eu defino o local onde o dino fique indepedente do que haja em volta */
+    position: absolute;
+    /* e aqui defino o que qquero jogo o dino para baixo */
+    bottom: 0;
+}
